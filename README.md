@@ -143,7 +143,10 @@ Cada `git push` a `main` vuelve a desplegar automáticamente.
 
 ## 📸 Demo del chat con Gordon GEKKO
 
-Link: https://drive.google.com/file/d/1EmRssrI0iY8m12m1BYlo5ejV4RCdfQ0w/view?usp=sharing
+| Video Demo |
+|---|---|---|
+| https://drive.google.com/file/d/1EmRssrI0iY8m12m1BYlo5ejV4RCdfQ0w/view?usp=sharing |
+
 ---
 
 ## 🧠 Conceptos aplicados
@@ -161,8 +164,8 @@ Link: https://drive.google.com/file/d/1EmRssrI0iY8m12m1BYlo5ejV4RCdfQ0w/view?usp
 
 | Herramienta | Para qué se usó | Qué revisé / modifiqué yo |
 |---|---|---|
-| Claude (Anthropic) | Estructura inicial del proyecto, router con History API, Vercel Function, estilos mobile-first, tests con Vitest y borrador de este README | <!-- Completar: qué entendiste, qué cambiaste, qué probaste --> |
-| <!-- otra herramienta --> | | |
+| Claude (Anthropic) | Estructura inicial del proyecto, router con History API, Vercel Function, estilos mobile-first, tests con Vitest y borrador de este README | Hize cambios en el diseño del chat|
+
 
 **Prompts / decisiones relevantes:**
 - Se pidió seguir la consigna del PI (rutas, estados, errores, seguridad de la key, tests, responsive).
