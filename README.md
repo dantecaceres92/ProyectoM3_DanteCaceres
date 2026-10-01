@@ -143,9 +143,7 @@ Cada `git push` a `main` vuelve a desplegar automáticamente.
 
 ## 📸 Demo del chat con Gordon GEKKO
 
-| Video Demo |
-|---|---|---|
-| https://drive.google.com/file/d/1EmRssrI0iY8m12m1BYlo5ejV4RCdfQ0w/view?usp=sharing |
+ Video Demo: https://drive.google.com/file/d/1EmRssrI0iY8m12m1BYlo5ejV4RCdfQ0w/view?usp=sharing 
 
 ---
 
