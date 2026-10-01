@@ -141,14 +141,9 @@ Cada `git push` a `main` vuelve a desplegar automáticamente.
 
 ---
 
-## 📸 Capturas de pantalla
+## 📸 Demo del chat con Gordon GEKKO
 
-| Mobile | Tablet | Desktop |
-|---|---|---|
-| ![Mobile](docs/screenshots/mobile.png) | ![Tablet](docs/screenshots/tablet.png) | ![Desktop](docs/screenshots/desktop.png) |
-
-<!-- Sacar las capturas con DevTools (Ctrl+Shift+M) en 375px, 768px y 1280px y guardarlas en docs/screenshots/ con esos nombres. -->
-
+Link: https://drive.google.com/file/d/1EmRssrI0iY8m12m1BYlo5ejV4RCdfQ0w/view?usp=sharing
 ---
 
 ## 🧠 Conceptos aplicados
