@@ -2,9 +2,9 @@
 
 Single Page Application para chatear con **Gordon Gekko**, el personaje ficticio de la película *Wall Street* (1987), usando **Google Gemini AI** a través de **Vercel Serverless Functions**.
 
-Proyecto Integrador — Módulo 3 · Full Stack · [Henry](https://www.soyhenry.com)
+Proyecto Integrador — Módulo 3 · Full Stack 
 
-🔗 **Aplicación desplegada:** https://TU-PROYECTO.vercel.app  <!-- reemplazar por la URL real -->
+🔗 **Aplicación desplegada:** https://proyectom3-dantecaceres.vercel.app/home
 
 ---
 
