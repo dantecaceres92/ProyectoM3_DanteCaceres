@@ -1,0 +1,19 @@
+{
+  "name": "chat-gordon-gekko",
+  "version": "1.0.0",
+  "description": "SPA para chatear con Gordon Gekko (Wall Street, 1987) usando Google Gemini AI a través de Vercel Functions",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "jsdom": "^25.0.1",
+    "vitest": "^2.1.8"
+  }
+}

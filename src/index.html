@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Chateá con Gordon Gekko, el tiburón de Wall Street, usando Google Gemini AI." />
+  <meta name="theme-color" content="#0b1410" />
+  <title>Chat con Gordon Gekko</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📈</text></svg>" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <!-- Rutas absolutas: necesarias para que funcionen al entrar directo a /chat o /about -->
+  <link rel="stylesheet" href="/styles.css" />
+  <script type="module" src="/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#app">Saltar al contenido</a>
+
+  <header class="topbar">
+    <a href="/home" class="brand" data-link>
+      <span class="brand__mark" aria-hidden="true">GG</span>
+      <span class="brand__name">Gekko<span>.chat</span></span>
+    </a>
+
+    <button class="nav__toggle" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="main-nav">
+      <span></span><span></span><span></span>
+    </button>
+
+    <nav id="main-nav" class="nav" aria-label="Navegación principal">
+      <a href="/home" class="nav__link" data-link>Inicio</a>
+      <a href="/chat" class="nav__link" data-link>Chat</a>
+      <a href="/about" class="nav__link" data-link>Acerca de</a>
+    </nav>
+  </header>
+
+  <div class="ticker" aria-hidden="true">
+    <div class="ticker__track">
+      <span>GKKO ▲ 4.21%</span><span>BLUESTAR ▼ 1.08%</span><span>TELDAR ▲ 2.65%</span><span>ANACOTT ▲ 0.92%</span>
+      <span>GKKO ▲ 4.21%</span><span>BLUESTAR ▼ 1.08%</span><span>TELDAR ▲ 2.65%</span><span>ANACOTT ▲ 0.92%</span>
+    </div>
+  </div>
+
+  <main id="app" class="container" tabindex="-1">
+    <noscript>Esta aplicación necesita JavaScript habilitado.</noscript>
+  </main>
+
+  <footer class="footer">
+    <p>Proyecto Integrador M3 · Henry · Personaje de ficción, no es asesoramiento financiero.</p>
+  </footer>
+</body>
+</html>
